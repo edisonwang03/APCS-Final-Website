@@ -4,5 +4,5 @@
 ---
 ## What do I look like?
 > Here is a picture of me:
-![me](images/self-picture.jpg)
+![me](images/self-picture.jpg =100x100)
 ---

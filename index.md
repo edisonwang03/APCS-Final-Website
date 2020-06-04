@@ -3,7 +3,7 @@
 
 > My name is **Edison Wang**.
 >
-> What's more to answer?
+> What's more to know?
 
 ## What do I look like?
 

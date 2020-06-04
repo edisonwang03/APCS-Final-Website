@@ -1,6 +1,4 @@
-# Name
+# What is my name?
 ---
-
-
-My name is Edison Wang
+> My name is Edison Wang.
 

@@ -1,9 +1,11 @@
 
 ## What is my name?
 
-> My name is **Edison Wang**.
->
-> What's more to know?
+My name is **Edison Wang**.
+
+> Fun fact: I was named Edison after the famous inventor, Thomas Edison.
+
+What's more to know?
 
 ---
 

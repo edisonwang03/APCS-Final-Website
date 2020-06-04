@@ -8,8 +8,6 @@ My name is Edison Wang.
 
 > **Fun fact:** I was named Edison after the famous inventor, Thomas Edison.
 
-What else is there to know?
-
 ---
 
 ## What do I look like?

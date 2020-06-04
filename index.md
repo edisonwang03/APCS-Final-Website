@@ -1,3 +1,6 @@
+# Welcome to my first GitHub Pages site using Jekyll!
+
+This is a project for AP Computer Science, titled "Final Website." In the project, I must show my name, a picture, my social media information, and a brag sheet. Enjoy!
 
 ## What is my name?
 
@@ -5,7 +8,7 @@ My name is Edison Wang.
 
 > **Fun fact:** I was named Edison after the famous inventor, Thomas Edison.
 
-What's more to know?
+What else is there to know?
 
 ---
 
@@ -16,3 +19,5 @@ What's more to know?
 > ![me](images/self-picture.jpg)
 
 ---
+
+

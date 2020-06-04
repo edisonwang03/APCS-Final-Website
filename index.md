@@ -9,5 +9,5 @@
 
 > Here is a picture of me:
 >
-> ![me](images/self-picture.jpg "Check it out. It's me!)
+> ![me](images/self-picture.jpg)
 

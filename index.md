@@ -22,6 +22,6 @@ Here is a picture of me:
 
 Click on each of the app icons to see my social media information
 
-[![instagram](images/instagram-icon.png "Instagram")](instagram.md)
+[![instagram](images/instagram-icon.png "Instagram")](https://edisonwang03.github.io/APCS-Final-Website/index)
 
 ---

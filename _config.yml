@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 title: All about Me
 description: APCS Final Website - Period 5/6
 nav:
-  - Home: 'index.md'
-  - Instagram: 'instagram.md'
+  - 'index.md'
+  - 'instagram.md'

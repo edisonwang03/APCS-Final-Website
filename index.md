@@ -22,6 +22,6 @@ Here is a picture of me:
 
 Click on each of the app icons to see my social media information
 
-[![instagram](images/instagram.png "Instagram")](https://www.youtube.com/)
+[![instagram](images/instagram-icon.png "Instagram")](https://www.youtube.com/)
 
 ---

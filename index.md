@@ -14,7 +14,7 @@ My name is Edison Wang.
 
 Here is a picture of me:
 
-> ![me](images/self-picture.jpg)
+> ![me](images/self-picture.jpg "Me")
 
 ---
 

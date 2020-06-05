@@ -12,10 +12,14 @@ My name is Edison Wang.
 
 ## What do I look like?
 
-> Here is a picture of me:
->
+Here is a picture of me:
+
 > ![me](images/self-picture.jpg)
 
 ---
 
+## What social media do you use?
 
+Click on each of the app icons to see my social media information
+
+---

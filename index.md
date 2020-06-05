@@ -14,7 +14,7 @@ My name is Edison Wang.
 
 Here is a picture of me:
 
-> ![me|100x100](images/self-picture.jpg "Hey look, it's me\!")
+> ![me|20%](images/self-picture.jpg "Hey look, it's me\!")
 
 ---
 

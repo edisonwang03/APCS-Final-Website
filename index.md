@@ -24,4 +24,5 @@ Click on each of the app icons to see my social media information
 
 [![instagram](images/instagram-icon.png "Instagram")](https://edisonwang03.github.io/APCS-Final-Website/instagram)
 
+![snapchat](images/snapchat-icon.jpg "Snapchat")
 ---

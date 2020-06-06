@@ -5,4 +5,4 @@ Scan the snapcode to get my snapchat information:
 
 You can also just use my username: **edi_swims03**
 
-[Return to HOME](https://edisonwang03.github.io/APCS-Final-Website/)
+## [Return to HOME](https://edisonwang03.github.io/APCS-Final-Website/)

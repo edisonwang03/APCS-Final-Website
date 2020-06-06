@@ -22,7 +22,7 @@ Here is a picture of me:
 
 Click on each of the app icons to see my social media information
 
-[![instagram](images/instagram-icon.png "Instagram")](https://edisonwang03.github.io/APCS-Final-Website/instagram)
+[![instagram](images/instagram-icon.jpg "Instagram")](https://edisonwang03.github.io/APCS-Final-Website/instagram)
 
-![snapchat](images/snapchat-icon.jpg "Snapchat")
+[![snapchat](images/snapchat-icon.jpg "Snapchat" "Snapchat")](https://edisonwang03.github.io/APCS-Final-Website/snapchat)
 ---

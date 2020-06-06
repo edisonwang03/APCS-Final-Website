@@ -32,8 +32,8 @@ Of course! Given that college is coming up soon, I will need to prepare a brag s
   - All honors or AP classes
   - Straight A's across all subjects
   - Hobby in programming with a portfolio as evidence
-  - Won a regional competition in Green Generation for Science Olympiad and placed high in the other activity
-  - Participating in the Chemistry Science Team
+  - Won a regional competition in Green Generation for Science Olympiad and placed high in other competitions
+  - Currently participating in the Chemistry Science Team
   - SET member of the John Hopkins Grand Ceremony
 - **Athletics**
   - Participated in multiple competitions, including JOs and Sectionals

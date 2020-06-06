@@ -1,2 +1,2 @@
 # Snapchat Information
-Scan the snapcode to get my snapchat information: ![snapcode](images/snapcode.jpg)
+Scan the snapcode to get my snapchat information: ![snapcode](images/snapcode.PNG)

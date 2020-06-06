@@ -26,6 +26,8 @@ Click on each of the app icons to see my social media information
 
 Of course! Given that college is coming up soon, I will need to prepare a brag sheet to show off my talents, achievements, and important positions. Here is a brag sheet that I am currently developing:
 
+---
+
 - **Academics**
   - All honors or AP classes
   - Straight A's across all subjects
@@ -38,5 +40,7 @@ Of course! Given that college is coming up soon, I will need to prepare a brag s
   - Best cut is currently a FUTR cut in the 200 back LC
 - **Work Experience**
   - Volunteering with audio at the local Chinese school
+  
+---
 
 Obviously, I will still need to achieve more in all topics, especially in athletics and work experience.

@@ -8,15 +8,15 @@ My name is Edison Wang.
 
 > **Fun fact:** I was named Edison after the famous inventor, Thomas Edison.
 
----
+
 
 ## What do I look like?
 
 Here is a picture of me:
 
-> ![me](images/self-picture.jpg "Hey look, it's me!")
+![me](images/self-picture.jpg "Hey look, it's me!")
 
----
+
 
 ## What social media do you use?
 
@@ -24,4 +24,3 @@ Click on each of the app icons to see my social media information
 
 [![instagram](images/instagram-icon.jpg "Instagram")](https://edisonwang03.github.io/APCS-Final-Website/instagram) [![reddit](images/reddit-icon.png "Reddit")](https://edisonwang03.github.io/APCS-Final-Website/reddit) [![snapchat](images/snapchat-icon.jpg "Snapchat")](https://edisonwang03.github.io/APCS-Final-Website/snapchat)
 
----
